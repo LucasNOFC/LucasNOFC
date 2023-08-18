@@ -66,6 +66,7 @@
 
 <h2> Cursos </h2>
 <ul> 
+ <li> <i> Em Andamento </i> Curso IT Talent DevOPS </li>
  <li> <i> Em Andamento </i> Trilha DevOPS Alura </li>
  <li> <i> Em Andamento </i> Trilha Full-Stack UDEMY </li>
 </ul>
