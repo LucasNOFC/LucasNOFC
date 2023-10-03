@@ -66,9 +66,8 @@
 
 <h2> Cursos </h2>
 <ul> 
- <li> <i> Em Andamento </i> Curso IT Talent DevOPS </li>
- <li> <i> Em Andamento </i> Trilha DevOPS Alura </li>
  <li> <i> Em Andamento </i> Trilha Full-Stack UDEMY </li>
+ <li> <i> Em Andamento </i> Bootcamp WEX - Desenvolvimento .NET e QA </li>
 </ul>
 <!--
 **LucasNOFC/LucasNOFC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
