@@ -2,7 +2,7 @@
 
 <h2>I'm Lucas! Let me present a little about me :)</h2>
 
-<p>Full-Stack focused in Node.JS | Full-Stack Developer </p>
+<p>Full-Stack focused in Laravel | Full-Stack Developer </p>
 
 <p>Lover and Enthusiastic of coding</p>
 
